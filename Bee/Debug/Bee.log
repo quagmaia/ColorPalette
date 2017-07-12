@@ -1,4 +1,5 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Bee.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   Main.cpp
+c:\users\1020788\documents\cpp practice\sfml practice\bee\main.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Bee.vcxproj -> C:\Users\1020788\Documents\CPP Practice\SFML Practice\Debug\ColorPalette.exe
   Bee.vcxproj -> C:\Users\1020788\Documents\CPP Practice\SFML Practice\Debug\ColorPalette.pdb (Full PDB)
